@@ -6,28 +6,40 @@
       <file name="/start_script.py" timestamp="1484508748060">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1487654858522">
+      <file name="/code.py" timestamp="1487656883784">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-      </file>
-      <file name="$USER_HOME$/Code/MLAlgorithms/mla/naive_bayes.py" timestamp="1484588286123">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1486939728013">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/MLAlgoBook/Ch3/pima.py" timestamp="1484508681465">
-        <mark key="'" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/TestPyProject/src/.ipynb_checkpoints/Main.py" timestamp="1484341907074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="26" />
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/MLAlgorithms/mla/base/base.py" timestamp="1484587920499">
+        <mark key="'" line="7" column="4" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="8" />
+        <mark key="^" line="49" column="8" />
+        <mark key="." line="49" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/MLAlgorithms/mla/naive_bayes.py" timestamp="1484588286123">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/MLAlgoBook/Ch3/pima.py" timestamp="1484508681465">
+        <mark key="'" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/CodingMatrix/ch0/dictutil.py" timestamp="1487656707222">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Code/MLAlgoBook/Ch2/gaussian.py" timestamp="1486945229673">
         <mark key="'" line="1" column="0" />
@@ -46,13 +58,6 @@
         <mark key="]" line="2" column="17" />
         <mark key="^" line="0" column="26" />
         <mark key="." line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/Code/MLAlgorithms/mla/base/base.py" timestamp="1484587920499">
-        <mark key="'" line="7" column="4" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="8" />
-        <mark key="^" line="49" column="8" />
-        <mark key="." line="49" column="8" />
       </file>
       <file name="$USER_HOME$/Code/MLAlgoBook/Ch2/plotGaussian.py" timestamp="1486945285504">
         <mark key="[" line="17" column="0" />
@@ -76,11 +81,11 @@
       <jump line="7" column="4" filename="$USER_HOME$/Code/MLAlgorithms/mla/base/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YSA9IHsoMSwyKSwoMiwzKSwoMiwoMikpfWRkCg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXRfcmVxdWlyZWRcPg==</text>
@@ -89,31 +94,31 @@
         <text encoding="base64">cGwuY2xvc2UoJ2FsbCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YSA9IHsoMSwyKSwoMiwzKSwoMiwoMikpfWRkCg==</text>
+        <text encoding="base64">aW1wb3J0IGRpY3R1dGlsIGFzIGR1Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YS5fX3NpemVvZl9fKCkK</text>
+        <text encoding="base64">aW1wb3J0IG1hdHh4aAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YSA9PSBiCg==</text>
+        <text encoding="base64">bWF0aC5zcXJ0KC0zKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YSA9IHsxMiwgMTMsIDE0LCAxMH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGwuaW9uKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGwucGxvdCh4LCB5LCAnaycsIGxpbmV3aWR0aD0zKQo=</text>
+        <text encoding="base64">ZGVmIGYoeDogaW50KTogcmV0dXJuIHggKiAyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGwuZmlndXJlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKCJDaDMiKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdhJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHB5bGFiIGFzIHBsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
