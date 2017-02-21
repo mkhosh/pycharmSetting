@@ -6,11 +6,11 @@
       <file name="/start_script.py" timestamp="1484508748060">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1487656883784">
+      <file name="/code.py" timestamp="1487657383904">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="/Python Console" timestamp="1486939728013">
         <mark key="[" line="0" column="0" />
@@ -36,10 +36,11 @@
       <file name="$USER_HOME$/Code/MLAlgoBook/Ch3/pima.py" timestamp="1484508681465">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/CodingMatrix/ch0/dictutil.py" timestamp="1487656707222">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Code/CodingMatrix/ch0/dictutil.py" timestamp="1487657240388">
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="57" />
+        <mark key="." line="6" column="57" />
+        <mark key="^" line="6" column="57" />
       </file>
       <file name="$USER_HOME$/Code/MLAlgoBook/Ch2/gaussian.py" timestamp="1486945229673">
         <mark key="'" line="1" column="0" />
@@ -82,16 +83,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXRfcmVxdWlyZWRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cGwuY2xvc2UoJ2FsbCcpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGN0ID0gezE6IDIsIDI6IDMsIDM6IDR9CiAgICBwcmludChkaWN0Mmxpc3QoZGN0LCBbMSwgM10pKQogICAg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGRpY3R1dGlsIGFzIGR1Cg==</text>
