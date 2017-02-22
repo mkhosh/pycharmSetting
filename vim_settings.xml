@@ -36,11 +36,11 @@
       <file name="$USER_HOME$/Code/MLAlgoBook/Ch3/pima.py" timestamp="1484508681465">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/CodingMatrix/ch0/dictutil.py" timestamp="1487738776797">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/Code/CodingMatrix/ch0/dictutil.py" timestamp="1487743401356">
+        <mark key="[" line="29" column="36" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="28" column="6" />
       </file>
       <file name="$USER_HOME$/Code/MLAlgoBook/Ch2/gaussian.py" timestamp="1486945229673">
         <mark key="'" line="1" column="0" />
@@ -83,16 +83,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>on</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>on</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXRfcmVxdWlyZWRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">e2s6c2V0KFtwWzFdIGZvciBwIGluIGl0ZW1zXSkgZm9yIGssaXRlbXMgaW4gaXQuZ3JvdXBieSh0aGluZ3MsbGFtYmRhIHg6eFswXSl9Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGVmIG9uU2VhcmNoKGludmVyc2VJbmRleCwgcXVlcnkpOgogICAgcmV0dXJuIHJlZHVjZShsYW1iZGEgczEsIHMyOiBzMSB8IHMyLCBbaW52ZXJzZUluZGV4W3ddIGZvciB3IGluIHF1ZXJ5XSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KGRvY1dvcmQpCg==</text>
