@@ -6,13 +6,13 @@
       <file name="/start_script.py" timestamp="1484508748060">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1487657991572">
+      <file name="/code.py" timestamp="1487736756656">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1486939728013">
+      <file name="/Python Console" timestamp="1487736122310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/TestPyProject/src/.ipynb_checkpoints/Main.py" timestamp="1484341907074">
@@ -36,11 +36,11 @@
       <file name="$USER_HOME$/Code/MLAlgoBook/Ch3/pima.py" timestamp="1484508681465">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/CodingMatrix/ch0/dictutil.py" timestamp="1487657240388">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="6" column="57" />
-        <mark key="." line="6" column="57" />
-        <mark key="^" line="6" column="57" />
+      <file name="$USER_HOME$/Code/CodingMatrix/ch0/dictutil.py" timestamp="1487736878949">
+        <mark key="[" line="11" column="76" />
+        <mark key="]" line="11" column="75" />
+        <mark key="^" line="11" column="75" />
+        <mark key="." line="11" column="75" />
       </file>
       <file name="$USER_HOME$/Code/MLAlgoBook/Ch2/gaussian.py" timestamp="1486945229673">
         <mark key="'" line="1" column="0" />
@@ -83,10 +83,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXRfcmVxdWlyZWRcPg==</text>
@@ -95,31 +95,31 @@
         <text encoding="base64">ZGN0ID0gezE6IDIsIDI6IDMsIDM6IDR9CiAgICBwcmludChkaWN0Mmxpc3QoZGN0LCBbMSwgM10pKQogICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGRpY3R1dGlsIGFzIGR1Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHh4aAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnZlcnNlSQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWF0aC5zcXJ0KC0zKQo=</text>
+        <text encoding="base64">ICAgIGZvciBkb2MgaW4gc3RyTGlzdDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRpY3R1dGlsIGFzIGR1Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHh4aAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGYoeDogaW50KTogcmV0dXJuIHggKiAyCg==</text>
+        <text encoding="base64">bWF0aC5zcXJ0KC0zKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdhJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIGYoeDogaW50KTogcmV0dXJuIHggKiAyCg==</text>
       </register>
     </registers>
     <search>
