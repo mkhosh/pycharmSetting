@@ -6,11 +6,11 @@
       <file name="/start_script.py" timestamp="1484508748060">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1488046086517">
+      <file name="/code.py" timestamp="1488050779238">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="3" column="30" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="13" />
+        <mark key="^" line="1" column="5" />
       </file>
       <file name="/Python Console" timestamp="1487736122310">
         <mark key="[" line="0" column="0" />
@@ -83,10 +83,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXRfcmVxdWlyZWRcPg==</text>
